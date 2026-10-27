@@ -1,6 +1,6 @@
 # HCMK26CNTT2_IT108_Session10_Ex04
 Bài tập số 4
-# 🚀 Bộ Hồ Sơ Thiết Kế Hệ Thống Quản Lý Bệnh Án Điện Tử Clinic-Cloud (Session 10 Ex04)
+# Bộ Hồ Sơ Thiết Kế Hệ Thống Quản Lý Bệnh Án Điện Tử Clinic-Cloud (Session 10 Ex04)
 
 Bài giải chuẩn hóa bộ tài liệu đặc tả SRS, quản lý dữ liệu bệnh nhân và báo cáo dịch bệnh cho Phòng khám Startup Clinic-Cloud.
 
